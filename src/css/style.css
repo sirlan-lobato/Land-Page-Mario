@@ -1,7 +1,7 @@
 :root{
     --background-fundo:black;
     --color-principal: #f0eaea;
-    --tamanho-fonte: 1.3em;
+    --tamanho-fonte: 1.2em;
     --font-principal: 'Roboto', sans-serif;
     --font-link: 'Ubuntu', sans-serif;
 
@@ -70,7 +70,7 @@ body{
 .descricao{
     text-align: justify;
     font-size: var(--tamanho-fonte);
-    line-height: 1.4em;
+    line-height: 1.3em;
     font-family: var(--font-principal);
 }
 
